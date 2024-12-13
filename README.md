@@ -1,9 +1,9 @@
 ### Hi there, I'm Jakku Sakura 👋
 
-- 🔭 I’m currently working as a Quant Developer for QRT
-- 🌱 I’m currently developing several projects that try to bring academic results in Programming Language field to High Frequency Trading
-- 👯 I’m looking to collaborate on Rust and contribute to open source projects.
-- 🤔 I’m looking forward to knowing other developers better
+- 🔭 I’m currently working as a Quant Developer for Auros
+- 🌱 I experiment novel ideas into High-Frequency Trading field
+- 👯 I want to collaborate on Rust and contribute to open-source projects.
+- 🤔 I strive to be the full-stack HFT personnel
 - ⚡ Fun fact: I was born in 2001 and started programming when I was 10 years old
 
 ### Connect with me:
